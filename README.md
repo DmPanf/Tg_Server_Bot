@@ -1,7 +1,7 @@
-# Tg_Server_Bot [BaaT = Bot as a Template]
-BaaT = Bot as a Template for Linux Admins
+# MyBot 06-01-2023
+BaaT = Bot as a Template
 
-## About [created: 06-01-2023]
+## About
 Scalable and straightforward template for bots written on aiogram with built-in handlers, filters, utils, middlewares and keyboards. 
 
 ## Setting it up
